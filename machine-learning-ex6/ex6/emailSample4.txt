@@ -1,0 +1,14 @@
+Hey there,
+Thanks for downloading Unified Remote! Make sure you have installed Unified Remote Server on your computer, if you haven't done so yet. Here are the download links to the latest versions:
+
+Download Windows
+Download Mac OS X
+Download Linux
+Once the server is installed and running the app should automatically detect it on your network.
+Check out our Tutorials and FAQ sections if you're having any issues. Otherwise, feel free to reach out to us by replying to this email.
+
+Thanks,
+Philip B.
+CEO at Unified Remote
+
+Just click unsubscribe to stop receiving emails from us.
